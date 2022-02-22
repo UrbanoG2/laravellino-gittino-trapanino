@@ -6,6 +6,7 @@
 
         <title>Matteo è scemo</title>
         <title>Gittino</title>
+        <title></title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
